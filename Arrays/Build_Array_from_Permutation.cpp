@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/build-array-from-permutation/
-
+// changes made 
 class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
